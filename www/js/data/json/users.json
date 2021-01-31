@@ -1,0 +1,18 @@
+[
+    {
+        "username":"bchirume@gmail.com",
+        "password":"millimeter",
+        "cardCode":"TMP001"
+    },
+    {
+        "username":"jaspero1@gmail.com",
+        "password":"12345678",
+        "cardCode":"TMP002"
+    }
+    ,
+    {
+        "username":"guest@saga.com",
+        "password":"12345678",
+        "cardCode":"TMP002"
+    }
+]
